@@ -42,10 +42,10 @@ data class Price private constructor(
 
 ### 양수
 
-![factory-function-with-private-constructor/Untitled.png](factory-function-with-private-constructor%206d88f727cc6e405bb4356370f9cf35ff/Untitled.png)
+![factory-function-with-private-constructor/Untitled.png](factory-function-with-private-constructor/Untitled.png)
 
 ### 음수
 
-![factory-function-with-private-constructor/Untitled%201.png](factory-function-with-private-constructor%206d88f727cc6e405bb4356370f9cf35ff/Untitled%201.png)
+![factory-function-with-private-constructor/Untitled%201.png](factory-function-with-private-constructor/Untitled%201.png)
 
 참고 : 코틀린을 다루는 기술
