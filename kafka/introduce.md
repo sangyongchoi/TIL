@@ -1,6 +1,6 @@
 # introduce
 
-![introduce%20bce705ee83dd48bf9d30c6da0d6e6ff0/Untitled.png](introduce%20bce705ee83dd48bf9d30c6da0d6e6ff0/Untitled.png)
+![introduce/Untitled.png](introduce/Untitled.png)
 
 `Producer` : Kafka 에 event 를 쓰는 client applications
 
