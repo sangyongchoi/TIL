@@ -8,7 +8,7 @@ Kotlin 환경에서 테스트를 손 쉽게 할 수 있는 kotest 라는 것이 
 
 먼저 아래와 같은 의존성을 추가한다.
 
-```yaml
+```kotlin
 testImplementation("org.springframework.boot:spring-boot-starter-test") { 
 	exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
 }
