@@ -23,8 +23,10 @@
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/%40CreatedDate-Can-be-dangerous.md">@CreatedDate 를 사용하면 안될 때</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/Why-use-val-on-entities(kotlin).md">Kotlin에서 Entity 컬럼에 val 을 사용하는 이유</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/use-in-query.md">findBy 에서 파라미터로 Collection 을 사용할 때 유의사항</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/find-test-with-kotest.md">kotest 를 이용하여 Overload 된 메소드 테스트 할 때 any() 활용법</a>
 - Spring Boot
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/active-profile.md">Spring Boot 2.4 이후버전에서 profile 설정하기</a>    
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/kotest-configuration.md">Spring Boot kotest configuration</a>    
 	
 ### node
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/node/write-node-package-json.md">package.json에서 dependencies 작성방법</a>
