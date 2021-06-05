@@ -1,4 +1,7 @@
 # TIL
+## 소개
+새로운 개발지식을 알게 될 때 기록하고자 만든 공간입니다.
+언어 제약은 따로 두고있지 않지만 Spring과 관련된 내용을 기록할때는 kotlin 을 이용하고 있습니다.
 
 ### kafka
 
@@ -27,6 +30,8 @@
 - Spring Boot
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/active-profile.md">Spring Boot 2.4 이후버전에서 profile 설정하기</a>    
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/kotest-configuration.md">Spring Boot kotest configuration</a>    
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/enum-converter.md">MongoDB 에 Enum을 저장할 때 Converter 사용하기</a>    
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/use-enum-as-request-param.md">Controller 에서 Enum 타입을 파라미터로 받기</a>    
 	
 ### node
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/node/write-node-package-json.md">package.json에서 dependencies 작성방법</a>
