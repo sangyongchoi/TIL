@@ -33,6 +33,7 @@
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/kotest-configuration.md">Spring Boot kotest configuration</a>    
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/enum-converter.md">MongoDB 에 Enum을 저장할 때 Converter 사용하기</a>    
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/use-enum-as-request-param.md">Controller 에서 Enum 타입을 파라미터로 받기</a>    
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/Precautions-when-using-interceptors.md">Interceptor 사용시 주의사항</a>
 	
 ### node
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/node/write-node-package-json.md">package.json에서 dependencies 작성방법</a>
