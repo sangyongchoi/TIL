@@ -8,7 +8,7 @@
 
 Spring Batch 에서는 페이징처리를 쉽게 할 수 있도록 `AbstractPagingItemReader` 라는 추상클래스를 제공해준다.
 
-그렇다면 `AbstractPagingItemReader` ****는 어떤식으로 페이징 처리를 지원하는지 알아보도록 하겠다.
+그렇다면 `AbstractPagingItemReader` 는 어떤식으로 페이징 처리를 지원하는지 알아보도록 하겠다.
 
 아래사진은 `AbstractPagingItemReader` 의 구현모습이다.
 
