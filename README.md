@@ -18,6 +18,7 @@
 
 - Spring-Batch
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/batch/We-need-to-use-rowMapper-in-JdbcPagingItemReaderBuilder.md">JdbcPagingItemReaderBuilder 사용시 주의사항</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/batch/AbstractPagingItemReader.md">AbstractPagingItemReader 이 페이징처리를 하는 방법</a>
 - rest docs
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/rest-docs/rest-docs-setting.md">Rest docs 세팅</a>
 - Spring Security
