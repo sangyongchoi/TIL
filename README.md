@@ -46,3 +46,4 @@
 	
 ### MongoDB
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/MongoDB/Transaction.md">MongoDB Transaction</a>
+- <a href="https://github.com/sangyongchoi/TIL/blob/master/MongoDB/use-indexes-to-sort.md">정렬에서 Index 를 사용하는 방법</a>
