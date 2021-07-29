@@ -30,6 +30,7 @@
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/find-test-with-kotest.md">kotest 를 이용하여 Overload 된 메소드 테스트 할 때 any() 활용법</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/use-MongoDB-Transaction.md">Spring Boot 환경에서 MongoDB Transaction 사용하기</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/use-mongoOperation-with-querydsl.md">QClass 를 이용하여 Criteria 에 사용되는 필드명 정의하기</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/Using-mongodb-type-safe-with-kotlin.md">Kotlin 을 이용하여 Type-safe 하게 MongoDB를 이용하기</a>
 - Spring Boot
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/active-profile.md">Spring Boot 2.4 이후버전에서 profile 설정하기</a>    
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/kotest-configuration.md">Spring Boot kotest configuration</a>    
