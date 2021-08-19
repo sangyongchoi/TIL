@@ -14,9 +14,9 @@ data class User(
     @Id
     val id: ObjectId? = null,
     val name: String? = null,
-		val tel: String = "",
-		val address: String = "",
-		val age:Int = 0,
+	val tel: String = "",
+	val address: String = "",
+	val age:Int = 0,
 )
 ```
 
@@ -29,7 +29,7 @@ class UserRepositoryCustomImpl(
     fun findBy(): List<UserDto> {
         val query = Query()
 
-				// 조회하고 싶은 field
+		// 조회하고 싶은 field
         query
             .fields()
             .include("name")
@@ -41,4 +41,8 @@ class UserRepositoryCustomImpl(
         )
     }
 }
+
+data class UserDto(
+    val name: String,
+)
 ```
