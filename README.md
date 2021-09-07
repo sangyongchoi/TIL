@@ -13,6 +13,7 @@
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/kotlin/factory-function-with-private-constructor.md">객체 생성 시 유효성검사 하는 방법</a>
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/kotlin/smart-cast.md">Smart Cast</a>
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/kotlin/Coroutine-context-and-dispatchers.md">Coroutine Context VS Dispatcher</a>
+- <a href="https://github.com/sangyongchoi/TIL/blob/master/kotlin/Multiple-sort.md">여러가지 조건으로 sort 하기</a>
 
 ### Spring
 
