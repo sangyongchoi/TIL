@@ -42,6 +42,7 @@
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/Precautions-when-using-interceptors.md">Interceptor 사용시 주의사항</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/use-ehcache.md">Spring Boot 에서 ehcache 사용하기</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/ResponseClass-Custom-Serialize.md">Custom Annotation을 이용하여 Response 변환하기</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/use-multi-module-with-gradle%201789beec21ce4d3c8d6a9e8a34d6e018.md">gradle multi module 사용하기 (with kotlin)</a>
 	
 ### node
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/node/write-node-package-json.md">package.json에서 dependencies 작성방법</a>
