@@ -25,10 +25,10 @@
 - Spring Security
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/security/security-filter-exclude-url.md">Custom Filter 등록 후 특정 URL 제외하기</a>
 - Spring Data
-    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/%40CreatedDate-Can-be-dangerous.md">@CreatedDate 를 사용하면 안될 때</a>
-    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/Why-use-val-on-entities(kotlin).md">Kotlin에서 Entity 컬럼에 val 을 사용하는 이유</a>
-    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/use-in-query.md">findBy 에서 파라미터로 Collection 을 사용할 때 유의사항</a>
-    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data-jpa/find-test-with-kotest.md">kotest 를 이용하여 Overload 된 메소드 테스트 할 때 any() 활용법</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/%40CreatedDate-Can-be-dangerous.md">@CreatedDate 를 사용하면 안될 때</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/Why-use-val-on-entities(kotlin).md">Kotlin에서 Entity 컬럼에 val 을 사용하는 이유</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/use-in-query.md">findBy 에서 파라미터로 Collection 을 사용할 때 유의사항</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/find-test-with-kotest.md">kotest 를 이용하여 Overload 된 메소드 테스트 할 때 any() 활용법</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/use-MongoDB-Transaction.md">Spring Boot 환경에서 MongoDB Transaction 사용하기</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/use-mongoOperation-with-querydsl.md">QClass 를 이용하여 Criteria 에 사용되는 필드명 정의하기</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/Using-mongodb-type-safe-with-kotlin.md">Kotlin 을 이용하여 Type-safe 하게 MongoDB를 이용하기</a>
