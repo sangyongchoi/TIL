@@ -20,6 +20,7 @@
 - Spring-Batch
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/batch/We-need-to-use-rowMapper-in-JdbcPagingItemReaderBuilder.md">JdbcPagingItemReaderBuilder 사용시 주의사항</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/batch/AbstractPagingItemReader.md">AbstractPagingItemReader 이 페이징처리를 하는 방법</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/batch/parallel-step.md">Spring Batch 를 이용하여 병렬로 실행하기</a>
 - rest docs
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/rest-docs/rest-docs-setting.md">Rest docs 세팅</a>
 - Spring Security
