@@ -60,3 +60,4 @@
 ### ETC
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/etc/transaction-in-MSA.md">MSA 환경에서 분산 트랜잭션 처리하는 방법</a>
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/etc/Layered-Architecture.md">Layered Architecture</a>
+- <a href="https://github.com/sangyongchoi/TIL/blob/master/etc/Creating-multi-modules(with-IntelliJ).md">IntellJ를 활용하여 Multi-Module 구성하기</a>
