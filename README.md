@@ -57,6 +57,9 @@
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/MongoDB/use-indexes-to-sort.md">정렬에서 Index 를 사용하는 방법</a>
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/MongoDB/use-indexes-to-sort.md">제일 가까운 위치찾기</a>
 
+### Redis
+- <a href="https://github.com/sangyongchoi/TIL/blob/master/Redis/set-if-not-exists.md">Key 가 없을때만 set 하기</a>
+
 ### ETC
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/etc/transaction-in-MSA.md">MSA 환경에서 분산 트랜잭션 처리하는 방법</a>
 - <a href="https://github.com/sangyongchoi/TIL/blob/master/etc/Layered-Architecture.md">Layered Architecture</a>
