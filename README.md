@@ -35,6 +35,7 @@
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/Using-mongodb-type-safe-with-kotlin.md">Kotlin 을 이용하여 Type-safe 하게 MongoDB를 이용하기</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/how-to-return-specific-fields-with-MongoOperation.md">MongoOperation 을 사용하여 특정 field 만 조회하기</a>
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/how-to-bulkinsert-using-data-mongo%20c303fce96950427b808aeff773adf223.md">여러개의 Document 한번에 insert 하기</a>
+    - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-data/nested-objectId-serialize-deserialize.md">nested objectId serialize, deserialize 했을 때 값이 달라지는 이슈 해결하기</a>
 - Spring Boot
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/active-profile.md">Spring Boot 2.4 이후버전에서 profile 설정하기</a>    
     - <a href="https://github.com/sangyongchoi/TIL/blob/master/spring/spring-boot/kotest-configuration.md">Spring Boot kotest configuration</a>    
